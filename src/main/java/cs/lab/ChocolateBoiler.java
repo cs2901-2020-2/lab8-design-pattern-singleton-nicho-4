@@ -1,3 +1,5 @@
+package cs.lab;
+
 public class ChocolateBoiler {
     private boolean empty;
     private boolean boiled;
