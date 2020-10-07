@@ -3,12 +3,8 @@ package cs.lab;
 public class ChocolateBoilerSingleton {
     private static ChocolateBoilerSingleton instance;
     private static final Object mutex = new Object();
-    private boolean empty;
-    private boolean boiled;
 
     private ChocolateBoilerSingleton(){
-        empty = true;
-        boiled = false;
     }
 
     public static ChocolateBoilerSingleton getInstance(){
