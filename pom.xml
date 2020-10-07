@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cs2901</groupId>
-    <artifactId>lab7-designa-nicho-4</artifactId>
+    <artifactId>lab8-design-pattern-singleton-nicho-4</artifactId>
     <version>0.1</version>
 
     <properties>
